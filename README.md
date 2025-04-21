@@ -12,4 +12,4 @@ I'm a **Data Science** student, currently pursuing a **B.Tech** in Computer Scie
 
 ## 💬 Let's Connect:
 - **Email**: [minhajnoushad123@gmail.com](mailto:minhajnoushad123@gmail.com)
-- **LinkedIn**: [Minhaj Noushad](https://www.linkedin.com/in/minhaj-noushad-9ab526308/)
+- **LinkedIn**: [Minhaj Noushad](www.linkedin.com/in/minhaj-noushad)
