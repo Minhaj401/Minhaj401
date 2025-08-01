@@ -10,6 +10,7 @@ I'm a **Data Science** student, currently pursuing a **B.Tech** in Computer Scie
 - **Python**
 - **C**
 - **JavaScript**
+- **Java**
 
 ### 📊 Data Science & Analysis
 - **NumPy**
@@ -20,7 +21,9 @@ I'm a **Data Science** student, currently pursuing a **B.Tech** in Computer Scie
 ### 🌐 Web Development
 - **Django**
 - **JavaScript**
-- **HTML/CSS** 
+- **HTML/CSS**
+- **React**
+- **Flask**
 
 ## 💬 Let's Connect:
 - **Email**: [minhajnoushad123@gmail.com](mailto:minhajnoushad123@gmail.com)
